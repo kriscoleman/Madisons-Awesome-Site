@@ -1,0 +1,13 @@
+.red {
+    color: red;
+    font-size: 20pt;
+}
+
+.zelda {
+    color: green;
+    font-family: "Lucida Console", Monaco, monospace;
+}
+
+.kitty {
+    text-align: center;
+}
